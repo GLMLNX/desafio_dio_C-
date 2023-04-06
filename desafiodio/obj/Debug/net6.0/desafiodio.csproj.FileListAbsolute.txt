@@ -1,0 +1,15 @@
+C:\Users\G\Documents\CSHARP\desafiodio\bin\Debug\net6.0\desafiodio.exe
+C:\Users\G\Documents\CSHARP\desafiodio\bin\Debug\net6.0\desafiodio.deps.json
+C:\Users\G\Documents\CSHARP\desafiodio\bin\Debug\net6.0\desafiodio.runtimeconfig.json
+C:\Users\G\Documents\CSHARP\desafiodio\bin\Debug\net6.0\desafiodio.dll
+C:\Users\G\Documents\CSHARP\desafiodio\bin\Debug\net6.0\desafiodio.pdb
+C:\Users\G\Documents\CSHARP\desafiodio\obj\Debug\net6.0\desafiodio.csproj.AssemblyReference.cache
+C:\Users\G\Documents\CSHARP\desafiodio\obj\Debug\net6.0\desafiodio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G\Documents\CSHARP\desafiodio\obj\Debug\net6.0\desafiodio.AssemblyInfoInputs.cache
+C:\Users\G\Documents\CSHARP\desafiodio\obj\Debug\net6.0\desafiodio.AssemblyInfo.cs
+C:\Users\G\Documents\CSHARP\desafiodio\obj\Debug\net6.0\desafiodio.csproj.CoreCompileInputs.cache
+C:\Users\G\Documents\CSHARP\desafiodio\obj\Debug\net6.0\desafiodio.dll
+C:\Users\G\Documents\CSHARP\desafiodio\obj\Debug\net6.0\refint\desafiodio.dll
+C:\Users\G\Documents\CSHARP\desafiodio\obj\Debug\net6.0\desafiodio.pdb
+C:\Users\G\Documents\CSHARP\desafiodio\obj\Debug\net6.0\desafiodio.genruntimeconfig.cache
+C:\Users\G\Documents\CSHARP\desafiodio\obj\Debug\net6.0\ref\desafiodio.dll
